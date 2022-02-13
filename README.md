@@ -7,7 +7,7 @@
 - 💻 &nbsp;I spend most of my time writing JavaScript on both the front-end and back-end
 - 🌱 &nbsp;I’m currently learning and solving problems
 - 💬 &nbsp;Ask me about anything, I'll be happy to help
-- 📫 &nbsp;_How to reach me:_ [Twitter](https://twitter.com/iamdarshshah) | [Linkedin](https://www.linkedin.com/in/cleaver-mahfuz-26462521a/) | [Email](mailto:mdmahfuzrana41@gmail.com) 🚀
+- 📫 &nbsp;_How to reach me:_ [Linkedin](https://www.linkedin.com/in/cleaver-mahfuz-26462521a/) | [Email](mailto:mdmahfuzrana41@gmail.com) 🚀
 - ⚡ &nbsp;_Fun fact:_ I ❤️ discipline😄
 
 ### 📦 Languages and Tools: 
