@@ -22,5 +22,5 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
-<code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHDN7Vm-3XJ2BiV3GoEmAc3Y68Q0LTFejjwg&usqp=CAU"></code>
+<code><img height="25" src="https://www.pngitem.com/pimgs/m/385-3850359_icon-mongodb-logo-hd-png-download.png"></code>
 <br />
